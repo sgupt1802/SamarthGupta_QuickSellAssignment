@@ -1,1 +1,2 @@
-Quicksell Assignment done
+Quicksell-sgupta1802
+Samarth gupta
